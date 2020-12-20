@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Message</string>
+    <string name="Msg">Введите сообщение</string>
+    <string name="button">Передать сообщение</string>
+    <string name="OK">OK</string>
+    <string name="TextView"></string>
+</resources>
